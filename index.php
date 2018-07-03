@@ -2,4 +2,4 @@
 
 var_dump('hello, world');
 
-phpinfo();
+// phpinfo();
